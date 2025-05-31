@@ -13,13 +13,10 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
-https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_sub_merge.txt
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge.txt
-https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@104.25.248.210:8313?security=tls&sni=hk-13-568.flztjc.net&fp=chrome&type=tcp&headerType=none#13%2C14%7C%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian%20%7C%20%E2%AC%87%EF%B8%8F%202.1MB%2Fs
+hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@104.17.241.103:3234?insecure=1#%E7%BE%8E%E5%9B%BD%20-%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF%20-%20FranTech%20Solutions%20-%2036%20%7C%20%E2%AC%87%EF%B8%8F%202.7MB%2Fs
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSAtIOaLieaWr+e7tOWKoOaWryAtIEZyYW5UZWNoIFNvbHV0aW9ucyAtIDQxIHwg4qyH77iPIDIuNE1CL3MiLA0KICAiYWRkIjogIjEwNC4xNy4yNDEuMTAzIiwNCiAgInBvcnQiOiAiMjI2NDEiLA0KICAiaWQiOiAiOThlOTZjOWYtNGJiMy0zOWQ0LTlhMmMtZmFjMDQyNTdmN2M3IiwNCiAgImFpZCI6ICIyIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ6eGpwLWEudGtvbmcuY2MiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInRrLmh6bHQudGtkZG5zLnh5eiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+trojan://3085fcf8-a69c-11ec-bd7c-f23c913c8d2b@104.17.241.103:15229?security=tls&sni=3ede90a1-sx6ps0-t4up6r-1f0gu.cu.plebai.net&fp=chrome&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%E5%85%B3%E6%B3%A8TG%40dafei_di%20%E7%BE%8E%E5%9B%BD%2002%20%7C%20%E2%AC%87%EF%B8%8F%204.2MB%2Fs
 `
 
 let urls = [];
